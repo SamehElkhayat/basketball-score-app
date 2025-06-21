@@ -67,7 +67,7 @@ app/
 🙋 Author
 
 Developed by Sameh Elkhayat
-Feel free to connect via LinkedIn or explore more on GitHub
+Feel free to connect via LinkedIn [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameh-mohamed-ali-elkhayat-149a72106)
 
 
 ---
