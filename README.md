@@ -28,22 +28,51 @@ A simple and interactive Android app to track and manage basketball game scores 
 ## 📁 Project Structure
 
 app/
+
 ├── java/
+
 │ └── com.example.basketballscore
+
 │ ├── ui/
+
 │ │ └── MainActivity.kt
+
 │ └── viewmodel/
+
 │ └── CounterViewModel.kt
+
 ├── res/
+
 │ ├── layout/
+
 │ │ └── activity_main.xml
+
 │ ├── drawable/
+
 │ │ └── basketballbg.png
+
 │ └── values/
+
 │ └── colors.xml
+
 └── AndroidManifest.xml
 
-🙋 Author
-Developed by Sameh Elkhayat
 
+## 📸 Screenshots
+
+> *(You can add screenshots of your app here for better presentation)*
+
+---
+
+🙋 Author
+
+Developed by Sameh Elkhayat
+Feel free to connect via LinkedIn or explore more on GitHub
+
+
+---
+
+📄 License
+
+This project is open-source and free to use for educational purposes.
 
