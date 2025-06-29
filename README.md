@@ -60,7 +60,10 @@ app/
 
 ## 📸 Screenshots
 
-> *(You can add screenshots of your app here for better presentation)*
+ ![](screenshots/screen1.jpeg)
+ 
+ ![](screenshots/screen2.jpeg) 
+ 
 
 ---
 
